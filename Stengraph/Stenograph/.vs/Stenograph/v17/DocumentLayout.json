@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\early\\Desktop\\Stengraph\\Stenograph\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5F540-B40C-4171-83E7-90D8200B0297}|Stenograph\\Stenograph.pyproj|C:\\Users\\early\\Desktop\\Stengraph\\Stenograph\\Stenograph\\run.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E3E5F540-B40C-4171-83E7-90D8200B0297}|Stenograph\\Stenograph.pyproj|solutionrelative:Stenograph\\run.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5F540-B40C-4171-83E7-90D8200B0297}|Stenograph\\Stenograph.pyproj|C:\\Users\\early\\Desktop\\Stengraph\\Stenograph\\Stenograph\\Stenograph.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E3E5F540-B40C-4171-83E7-90D8200B0297}|Stenograph\\Stenograph.pyproj|solutionrelative:Stenograph\\Stenograph.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5F540-B40C-4171-83E7-90D8200B0297}|Stenograph\\Stenograph.pyproj|C:\\Users\\early\\Desktop\\Stengraph\\Stenograph\\Stenograph\\Extract.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E3E5F540-B40C-4171-83E7-90D8200B0297}|Stenograph\\Stenograph.pyproj|solutionrelative:Stenograph\\Extract.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stenograph.py",
+              "DocumentMoniker": "C:\\Users\\early\\Desktop\\Stengraph\\Stenograph\\Stenograph\\Stenograph.py",
+              "RelativeDocumentMoniker": "Stenograph\\Stenograph.py",
+              "ToolTip": "C:\\Users\\early\\Desktop\\Stengraph\\Stenograph\\Stenograph\\Stenograph.py",
+              "RelativeToolTip": "Stenograph\\Stenograph.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-03T11:15:21.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "run.py",
+              "DocumentMoniker": "C:\\Users\\early\\Desktop\\Stengraph\\Stenograph\\Stenograph\\run.py",
+              "RelativeDocumentMoniker": "Stenograph\\run.py",
+              "ToolTip": "C:\\Users\\early\\Desktop\\Stengraph\\Stenograph\\Stenograph\\run.py",
+              "RelativeToolTip": "Stenograph\\run.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-03T11:10:46.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Extract.py",
+              "DocumentMoniker": "C:\\Users\\early\\Desktop\\Stengraph\\Stenograph\\Stenograph\\Extract.py",
+              "RelativeDocumentMoniker": "Stenograph\\Extract.py",
+              "ToolTip": "C:\\Users\\early\\Desktop\\Stengraph\\Stenograph\\Stenograph\\Extract.py",
+              "RelativeToolTip": "Stenograph\\Extract.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-03T11:07:53.516Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
